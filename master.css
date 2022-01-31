@@ -62,12 +62,8 @@ img{
 .levis:hover .heart{
     color:red;
 }
-/* 
-.levis img[src="img/1.webp"]:hover{
+
+.levis:hover .ciao{
 
     display: none;
 }
-body .ciao1:hover{
-
-    display: none;
-} */
