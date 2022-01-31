@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
 .conteiner{
     width: 50%;
     height:100vh;
@@ -43,7 +42,6 @@ img{
     background-color: rgb(49, 66, 49);
 }
 .special{
-
     left: 0%;
 }
 .price{
@@ -59,10 +57,9 @@ img{
   clear: both;
   display: table;
 }
-.levis:hover .heart{
+.heart:hover .heart{
     color:red;
 }
-
 .levis:hover #Img1{
   content: url("img/1b.webp");
   height: 88%;
@@ -71,22 +68,18 @@ img{
     content: url("img/2b.webp");
     height: 88%;
   }
-
   .levis:hover #Img3{
     content: url("img/3b.webp");
     height: 88%;
   }
-  
   .levis:hover #Img4{
     content: url("img/4b.webp");
     height: 88%;
   }
-  
   .levis:hover #Img5{
     content: url("img/5b.webp");
     height: 88%;
   }
-
   .levis:hover #Img6{
     content: url("img/6b.webp");
     height: 88%;
