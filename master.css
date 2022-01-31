@@ -63,7 +63,33 @@ img{
     color:red;
 }
 
-.levis:hover .firstimmage{
-
-    display: none;
+.levis:hover #Img1{
+  content: url("img/1b.webp");
+  height: 88%;
 }
+.levis:hover #Img2{
+    content: url("img/2b.webp");
+    height: 88%;
+  }
+
+  .levis:hover #Img3{
+    content: url("img/3b.webp");
+    height: 88%;
+  }
+  
+  .levis:hover #Img4{
+    content: url("img/4b.webp");
+    height: 88%;
+  }
+  
+  .levis:hover #Img5{
+    content: url("img/5b.webp");
+    height: 88%;
+  }
+
+  .levis:hover #Img6{
+    content: url("img/6b.webp");
+    height: 88%;
+  }
+  
+
