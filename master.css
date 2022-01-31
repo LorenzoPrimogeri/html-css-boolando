@@ -57,10 +57,11 @@ img{
   clear: both;
   display: table;
 }
-/* .levis:hover .heart{
+.levis:hover .heart{
 
     color:red;
 }
+/* 
 .levis img[src="img/1.webp"]:hover{
 
     display: none;
